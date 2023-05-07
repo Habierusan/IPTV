@@ -5,7 +5,7 @@
 http://ar.watcha.live/ch3/hi.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/D/4/A/3/3/2/63A.png" group-title="Nacional",Tv Pública
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://ar.watcha.live/ch4/hi.m3u8
  
 #EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png" group-title="Nacional",El Nueve
